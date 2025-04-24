@@ -45,3 +45,22 @@ These simple steps help you safeguard your digital life from unauthorized access
 - Use "secure delete" instead of just hitting delete.
 
 
+
+
+# Cybersecurity Best Practices
+
+## Actions for Protecting Your System
+
+| Action | Description | Correct Option |
+|--------|-------------|----------------|
+| **Close the pop-up or browser** | Close any pop-up or browser window that might be suspicious. | Clicking ‘X’ |
+| **Protect your system, which hasn’t been corrupted yet** | Ensure your system is secure by scanning it with trusted software. | Running a system security scan with your trusted antivirus software |
+| **Check if a legitimate application update is needed** | Verify if an update is legitimate by visiting the official website of the application. | Checking if you have the SOCIALACCESSNOW application and if so, visit their official website |
+
+## Simple Explanation
+
+- **Closing a pop-up**: Clicking ‘X’ will completely close the pop-up or browser tab, helping you avoid potential security risks.
+- **Running a security scan**: Using trusted antivirus software ensures your system is protected from malware and other threats.
+- **Verifying legitimate updates**: Always check the official website of the application for updates to avoid downloading potentially harmful software.
+
+
