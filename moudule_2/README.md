@@ -258,3 +258,74 @@ This section covers important concepts related to the ever-evolving cybersecurit
   
 - **Cryptojacking**: A hidden attack that uses your device’s resources to mine cryptocurrency without your knowledge. Protect yourself by using antivirus software and avoiding suspicious online content.
 
+
+
+
+
+
+
+
+## Module 2 Final Quize
+# Cybersecurity Questions and Answers
+
+## Question 0
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Malware designed to track your online activity and capture your data | **Spyware** | Example: **Spyware** runs secretly on your computer, tracking your online activity and capturing sensitive data like passwords. |
+
+---
+
+## Question 1
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Which of the following examples illustrates how malware might be concealed? | **An email is sent to the employees of an organization with an attachment that looks like an antivirus update, but the attachment actually consists of spyware** | Example: A phishing email pretending to be an antivirus update contains spyware that secretly tracks user data. |
+
+---
+
+## Question 2
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Which of the following characteristics describe a worm? | **Is self-replicating, Travels to new computers without any intervention or knowledge of the user** | Example: A **worm** spreads itself from one computer to another automatically without needing the user to do anything. |
+
+---
+
+## Question 3
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| What is the most common goal of search engine optimization (SEO) poisoning? | **To increase web traffic to malicious sites** | Example: A **malicious site** manipulates search engine results to appear in top search rankings, tricking users into visiting it. |
+
+---
+
+## Question 4
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| What is the primary goal of a DoS attack? | **To prevent the target server from being able to handle additional requests** | Example: In a **DoS attack**, the target server is flooded with traffic, preventing it from serving legitimate requests. |
+
+---
+
+## Question 5
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| What do you call a program written to take advantage of a known security vulnerability? | **An exploit** | Example: An **exploit** targets specific weaknesses in a program to perform malicious actions, such as gaining unauthorized access. |
+
+---
+
+## Question 6
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Which of the following should be carried out to address known software vulnerabilities of a specific application? | **Install a security patch** | Example: A **security patch** is an update that fixes vulnerabilities in software, making it more secure. |
+
+---
+
+## Question 7
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Can you identify the software vulnerability from the following descriptions? | **Buffer overflow** | Example: **Buffer overflow** occurs when more data is written to a buffer than it can hold, causing unexpected behavior or crashes. |
+
+---
+
+## Question 8
+| **Question** | **Answer** | **Explanation** |
+|--------------|------------|-----------------|
+| Who is responsible for overseeing a blockchain electronic ledger? | **Anyone belonging to the blockchain network** | Example: In a **blockchain network**, all participants collectively maintain and verify the electronic ledger. |
+
