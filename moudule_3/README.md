@@ -24,3 +24,24 @@ Your computing devices are the portal to your online life, storing a lot of your
 
 These simple steps help you safeguard your digital life from unauthorized access and malicious threats.
 
+
+
+
+
+## 🔐 Module 3.2: Data Protection
+
+| Section | Topic                         | What It Means (Simple)                                                                 | Example                                                                 |
+|---------|-------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 3.2.1   | What Is Encryption?           | Encryption scrambles data so only someone with the right key can read it.             | Sending an encrypted email that only the recipient can open.           |
+| 3.2.2   | How Do You Encrypt Your Data? | Use software or system settings to encrypt files, folders, or entire drives.           | Turning on BitLocker on Windows to encrypt your hard drive.            |
+| 3.2.3   | Back Up Your Data             | Make copies of important files and store them safely (cloud or external drive).        | Saving your photos on Google Drive or an external hard disk.           |
+| 3.2.4   | Are They Really Gone?         | Deleted files can be recovered if not properly wiped.                                  | Emptying the Recycle Bin doesn't permanently delete a file.            |
+| 3.2.5   | How Do You Delete Permanently?| Use secure delete tools to overwrite data and make it unrecoverable.                   | Using a tool like “Eraser” to wipe a file completely from your drive.  |
+
+✅ **Pro Tips**:
+- Always encrypt sensitive data before sharing.
+- Use strong passwords for encrypted drives.
+- Backups should also be encrypted if they contain private data.
+- Use "secure delete" instead of just hitting delete.
+
+
