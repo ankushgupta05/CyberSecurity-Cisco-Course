@@ -13,3 +13,43 @@
 | **Virus**            | A virus replicates itself and attaches to executable files. It requires user interaction and can act destructively, such as deleting or corrupting files. | A virus that attaches to a document, and when opened, spreads to other files, corrupting them.     |
 | **Trojan Horse**     | A Trojan appears legitimate but carries out malicious operations. It exploits user privileges and is often disguised in files like images or games.     | A game that seems fun but secretly installs malware to steal personal data when played.          |
 | **Worms**            | Worms replicate themselves to spread across computers, often over a network. Unlike viruses, they don't need a host program to run.                    | A worm spreads through a network, infecting every computer connected to it without any user interaction. |
+
+
+
+
+
+
+
+
+
+
+
+# Types of Malware with Examples and Explanations
+
+| **Description**                                                                                              | **Malware Type**   | **Example**                                                                                                                                               | **Explanation**                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Malware designed to track your online activity and capture your data                                           | **Spyware**         | A keylogger that records all keystrokes, including passwords, and sends them to attackers.                                                                 | Spyware monitors user activity and collects sensitive information like login credentials or financial data.                |
+| Software that automatically delivers advertisements                                                           | **Adware**          | A browser that constantly shows pop-up ads while you're browsing the web.                                                                                 | Adware delivers unwanted ads and is often bundled with free software. It can also include tracking features like spyware.   |
+| Malware that holds a computer system captive until a payment is made to the attacker                           | **Ransomware**      | A message appears demanding payment to decrypt files that have been locked by ransomware.                                                                  | Ransomware encrypts files or locks a system and demands payment to restore access, often exploiting system vulnerabilities. |
+| Malicious code that attaches to legitimate programs and usually spreads by USB drives, optical media, network shares, or email | **Virus**           | A virus attached to an email attachment that spreads to all files once the attachment is opened.                                                            | A virus infects a legitimate file and spreads through interaction (e.g., via email attachments, USB drives).                |
+| Malicious code that replicates itself independently by exploiting vulnerabilities in networks                  | **Worms**           | A worm that spreads across a network, infecting each connected computer without any user interaction.                                                       | Worms self-replicate and spread across systems through network vulnerabilities, unlike viruses, which require a host.      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
