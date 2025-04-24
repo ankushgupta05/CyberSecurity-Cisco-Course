@@ -64,3 +64,172 @@ These simple steps help you safeguard your digital life from unauthorized access
 - **Verifying legitimate updates**: Always check the official website of the application for updates to avoid downloading potentially harmful software.
 
 
+
+
+
+## modul Final Quize
+# Cybersecurity Best Practices - Questions and Answers
+
+## 1. What should you do to make sure that people you live with do not have access to your secure data?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Turn on a firewall | ❌ |
+| Install antivirus software | ❌ |
+| Increase the privacy settings on your browser | ❌ |
+| Set up password protection | ✅ |
+
+### Explanation:
+Setting up password protection ensures that only authorized users can access your device or data.
+
+---
+
+## 2. Which type of technology can prevent malicious software from monitoring user activities, collecting personal information, and producing unwanted pop-up ads on a user's computer?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Two-factor authentication | ❌ |
+| Antispyware | ✅ |
+| Firewall | ❌ |
+| Password manager | ❌ |
+
+### Explanation:
+Antispyware programs specifically target software designed to spy on users and protect them from such threats.
+
+---
+
+## 3. Why do IoT devices pose a greater security risk than other computing devices on a network?
+
+| Option | Correct Answer |
+|--------|----------------|
+| IoT devices require unencrypted wireless connections | ❌ |
+| IoT devices cannot function on an isolated network with only an Internet connection | ❌ |
+| Most IoT devices do not receive frequent software updates | ✅ |
+| Most IoT devices do not require an Internet connection and are unable to receive new updates | ❌ |
+
+### Explanation:
+Many IoT devices are not updated frequently, which makes them more vulnerable to security risks.
+
+---
+
+## 4. How can you keep your personal browsing history hidden from other users on a shared computer?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Move any downloaded files to the recycle bin | ❌ |
+| Operate the web browser in private browser mode | ✅ |
+| Reboot the computer after closing the web browser | ❌ |
+| Use only an encrypted connection to access websites | ❌ |
+
+### Explanation:
+Private browsing mode prevents the browser from saving your history and other browsing data.
+
+---
+
+## 5. What allowed the automatic authentication to occur when logging into the cloud storage service through a third-party online printing service?
+
+| Option | Correct Answer |
+|--------|----------------|
+| You are using an unencrypted network which allows the password for the cloud storage service to be viewed by the online printing service | ❌ |
+| Your account information for the cloud storage service was intercepted by a malicious application | ❌ |
+| The cloud storage service is an approved application for the online printing service | ✅ |
+| The password you entered for the online printing service is the same as the password you use for the cloud storage service | ❌ |
+
+### Explanation:
+Authorized applications can communicate and authenticate each other through pre-established permissions.
+
+---
+
+## 6. Which of the following is an example of two-factor authentication?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Your password and your username | ❌ |
+| Your account number and your name | ❌ |
+| Your fingerprint and your password | ✅ |
+| Your answer to a general knowledge question and your password | ❌ |
+
+### Explanation:
+Two-factor authentication (2FA) requires two forms of identification, such as something you know (password) and something you have (fingerprint).
+
+---
+
+## 7. You are having difficulty remembering passwords for all of your online accounts. What should you do?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Create a single strong password to be used across all online accounts | ❌ |
+| Write the passwords down and keep them out of sight | ❌ |
+| Save the passwords in a centralized password manager program | ✅ |
+| Share the passwords with a network administrator or computer technician | ❌ |
+
+### Explanation:
+A password manager securely stores and manages all of your passwords, making it easier to use strong, unique passwords for each account.
+
+---
+
+## 8. Which of the following is a requirement of a strong password?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Use a dictionary word or a common statement that you’ll remember | ❌ |
+| Use special characters such as ! @ or $ | ✅ |
+| Use at least six characters | ❌ |
+
+### Explanation:
+A strong password should be a combination of letters, numbers, and special characters.
+
+---
+
+## 9. Which configuration on a wireless router is not considered to be adequate security for a wireless network?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Preventing the broadcast of an SSID | ❌ |
+| Enabling wireless security | ❌ |
+| Implementing WPA2 encryption | ❌ |
+| Modifying the default SSID and password of a wireless router | ✅ |
+
+### Explanation:
+While modifying the default SSID and password is good practice, it is not sufficient by itself. WPA2 encryption and wireless security settings are critical for strong network protection.
+
+---
+
+## 10. How can you prevent others from eavesdropping on network traffic when operating a PC on a public Wi-Fi hotspot?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Connect with a VPN service | ✅ |
+| Disable Bluetooth | ❌ |
+| Create unique and strong passwords | ❌ |
+| Use WPA2 encryption | ❌ |
+
+### Explanation:
+Using a VPN encrypts your internet traffic, preventing hackers from intercepting your data on public networks.
+
+---
+
+## 11. What is the only way of ensuring that deleted files on your computer are irrecoverable?
+
+| Option | Correct Answer |
+|--------|----------------|
+| Emptying your computer’s recycle bin | ❌ |
+| Physically destroying your computer’s hard drive | ✅ |
+| Using a software program such as SDelete or Secure Empty Trash | ❌ |
+
+### Explanation:
+Physically destroying the hard drive ensures that the data is irrecoverable. Software methods like SDelete or Secure Empty Trash can help, but physical destruction guarantees complete erasure.
+
+---
+
+## 12. Which technology removes direct equipment and maintenance costs from the user for data backups?
+
+| Option | Correct Answer |
+|--------|----------------|
+| An external hard drive | ❌ |
+| Network attached storage | ❌ |
+| A cloud service | ✅ |
+| A tape | ❌ |
+
+### Explanation:
+Cloud services provide data backup solutions without the need for physical equipment or maintenance.
