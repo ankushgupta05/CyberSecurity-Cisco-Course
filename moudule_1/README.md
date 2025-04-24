@@ -17,3 +17,17 @@
 | **State-Sponsored**  | Hackers working for governments to spy, sabotage, or steal data.             | A cyber team targeting another country's power grid to cause disruption.            |
 | **Organized Crime**  | Criminal groups running professional hacking operations or services.         | A ransomware gang encrypting data and demanding money for decryption.               |
 
+
+
+
+
+
+## 🔐 Internal vs External Cyber Threats
+
+| Type of Threat        | Description                                                             | Example                                                               |
+|-----------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Internal Threat**   | A cyber threat that comes from someone *inside* the organization.        | An employee who accidentally shares sensitive data or installs malware. |
+| **External Threat**   | A cyber threat that comes from *outside* the organization.               | A hacker trying to break into a company system from another country.   |
+
+> 🧠 **Quick Tip**: Not all internal threats are intentional — sometimes it’s just a careless mistake!
+
