@@ -46,6 +46,107 @@
 
 
 
+# Cybersecurity Concepts Explained
+
+This document provides simple explanations for common cybersecurity terms, attacks, and techniques. Let's break down each concept into easy-to-understand definitions and examples.
+
+---
+
+## 2.2.1 Social Engineering
+
+**Definition**: Social engineering is a technique where cybercriminals manipulate people into revealing confidential information or performing actions that compromise security. It's not about breaking into a system, but tricking a person into giving access.
+
+**Example**: An attacker might send an email pretending to be a trusted organization, asking the recipient to click a link and input their password.
+
+---
+
+## 2.2.2 Denial-of-Service (DoS)
+
+**Definition**: A Denial-of-Service attack tries to make a system or network unavailable by overwhelming it with too much traffic. The goal is to prevent legitimate users from accessing services.
+
+**Example**: A website is flooded with thousands of fake requests, causing it to crash and making it unavailable to real users.
+
+---
+
+## 2.2.3 Distributed DoS (DDoS)
+
+**Definition**: A Distributed Denial-of-Service attack is a more powerful version of a DoS attack. Instead of coming from one source, the attack comes from multiple devices (often compromised) to make it harder to block.
+
+**Example**: Hackers control thousands of devices in a botnet and use them to flood a website with requests, causing it to crash.
+
+---
+
+## 2.2.4 Botnet
+
+**Definition**: A botnet is a network of computers infected with malware, which are then controlled by hackers to perform malicious tasks, such as DDoS attacks.
+
+**Example**: A hacker uses a botnet to launch a DDoS attack on a company's website, making it unavailable for users.
+
+---
+
+## 2.2.5 On-Path Attacks
+
+**Definition**: On-path attacks occur when an attacker intercepts or alters communications between two parties without them knowing. These attacks are typically used to steal data or inject malicious content.
+
+**Example**: An attacker intercepts and modifies the data sent between a user and a website to steal sensitive information like passwords.
+
+---
+
+## 2.2.6 SEO Poisoning
+
+**Definition**: SEO poisoning is a technique where cybercriminals manipulate search engine results to show malicious websites at the top of search rankings. This is often used to trick users into visiting harmful sites.
+
+**Example**: You search for a popular software, and a malicious website appears at the top of the search results. Clicking on it leads to malware installation.
+
+---
+
+## 2.2.7 Wi-Fi Password Cracking
+
+**Definition**: Wi-Fi password cracking is the act of trying to guess a Wi-Fi network's password. This is usually done using brute force (trying every possible password combination) or by exploiting weak encryption methods.
+
+**Example**: An attacker uses a tool to guess the password of a public Wi-Fi network to gain unauthorized access to it.
+
+---
+
+## 2.2.8 Password Attacks
+
+**Definition**: A password attack is when an attacker tries to gain unauthorized access to a system by guessing or stealing passwords. There are different types of password attacks, such as brute force or phishing.
+
+**Example**: An attacker tries different combinations of letters and numbers until they find the correct password to break into an account.
+
+---
+
+## 2.2.9 Cracking Times
+
+**Definition**: Cracking times refer to the amount of time it would take an attacker to crack a password using brute force. The more complex the password, the longer it would take to crack.
+
+**Example**: A simple password like "password" would take less time to crack, while a complex one like "H$1gh#7iD@3" would take much longer.
+
+---
+
+## 2.2.10 Advanced Persistent Threats (APT)
+
+**Definition**: An APT is a prolonged and targeted cyberattack where an attacker gains unauthorized access to a network and stays there for a long period to steal sensitive information.
+
+**Example**: A hacker infiltrates a government agency's network and quietly monitors emails and documents over several months to gather intelligence.
+
+---
+
+## 2.2.11 It’s Over to You...
+
+**Definition**: This section encourages you to apply what you've learned and understand how to defend against cyber threats using the knowledge of different attack methods and cybersecurity practices.
+
+**Example**: Now that you've learned about various cyber threats, think about how to protect your own devices and networks by using strong passwords, encryption, and other security measures.
+
+---
+
+### Key Takeaways
+
+- Cybersecurity involves understanding different types of threats and how they operate.
+- Always use strong, unique passwords, and be cautious of social engineering tricks.
+- Regularly update your software and use security tools to protect against cyberattacks.
+
+
 
 
 
