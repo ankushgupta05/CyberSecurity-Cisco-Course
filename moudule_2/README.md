@@ -215,3 +215,46 @@ This document explains common vulnerabilities in both hardware and software, as 
 
 
 
+
+
+
+
+
+# 2.4 The Cybersecurity Landscape
+
+This section covers important concepts related to the ever-evolving cybersecurity landscape, such as cryptocurrency and cryptojacking, which are becoming key areas of concern for businesses, governments, and individuals alike.
+
+---
+
+## 2.4.1 Cryptocurrency
+
+**Definition**: Cryptocurrency is a form of digital or virtual money that uses encryption techniques to secure transactions. It operates independently of a central authority, such as a bank or government, making it decentralized.
+
+**Example**: Bitcoin, Ethereum, and Litecoin are all popular examples of cryptocurrencies. These currencies are used to purchase goods and services online or as an investment vehicle.
+
+**How It Works**: Cryptocurrency transactions are typically secured through blockchain technology, which is a decentralized ledger that records all transactions. Every transaction is verified by network participants and added to the blockchain to ensure its integrity.
+
+**Real-World Relevance**: Cryptocurrency is gaining acceptance in the mainstream, with companies like Microsoft and AT&T accepting it for purchases. Governments are also increasingly regulating cryptocurrencies to avoid misuse and protect consumers.
+
+---
+
+## 2.4.2 Cryptojacking
+
+**Definition**: Cryptojacking is an emerging cyber threat where malicious actors secretly use a victim's computer, smartphone, or server resources to mine cryptocurrency without the user’s knowledge or consent.
+
+**Example**: A hacker may insert a cryptojacking script on a website or in an email attachment. Once the victim opens the website or attachment, the malicious script begins running, using the device's processing power to mine cryptocurrency.
+
+**How It Works**: Cryptojacking works by silently exploiting the victim's computing power, using it to solve complex mathematical problems that are part of cryptocurrency mining. In return, the attacker earns the cryptocurrency, and the victim's device becomes slower and may overheat due to excessive resource usage.
+
+**Real-World Impact**: Many victims of cryptojacking do not realize they've been hacked until their devices start performing poorly. Since it often happens without visible signs, users may continue to use their device while the attacker profits from the mining process.
+
+**Protection**: To protect against cryptojacking, ensure that your antivirus software is up to date, use browser extensions that block mining scripts, and avoid clicking on suspicious links or downloading untrusted attachments.
+
+---
+
+### Key Takeaways
+
+- **Cryptocurrency**: Digital currency that uses encryption for secure transactions. Examples include Bitcoin, Ethereum, and Litecoin. It is decentralized and operates on blockchain technology.
+  
+- **Cryptojacking**: A hidden attack that uses your device’s resources to mine cryptocurrency without your knowledge. Protect yourself by using antivirus software and avoiding suspicious online content.
+
