@@ -34,26 +34,18 @@ Hackers can be categorized based on their intent and methods. The three main typ
 - **Black Hat Hackers** – Malicious hackers who exploit systems for personal gain.
 
 ---
+| **Type**             | **Daily Life Example**                                                             | **Bolchal Bhasha Mein Example**                                                      |
+|----------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Script Kiddies**    | Downloading a free tool online to crash a website "just for fun."                  | "Ek tool download kiya aur bas website ko crash kar diya, maza aaya!"                |
+| **White Hat Hackers** | A security expert hired by a company to find and fix vulnerabilities.             | "Company ne ek expert ko hire kiya tha taaki wo unki website ko safe bana sake."     |
+| **Gray Hat Hackers**  | Finding a bug in a website and reporting it only if it benefits them.              | "Website ka bug mila, agar mujhse fayda ho toh bataunga, warna chup rahoonga."      |
+| **Black Hat Hackers** | Stealing credit card info from a website to sell it online.                        | "Credit card ka info chura liya aur dark web pe bech diya."                         |
+| **Hacktivists**       | Hacking a government website to protest against censorship.                        | "Sarkari website ko hack kiya aur censorship ke khilaf protest kiya."                |
+| **State-Sponsored**   | A government team hacking another country’s power grid to cause disruptions.       | "Dusre desh ki bijli system ko hack kiya, taaki unhe dikkat ho."                    |
+| **Organized Crime**   | A ransomware gang encrypting files and asking for money to decrypt them.           | "Ek gang ne mere computer ka data lock kar diya aur paisa maanga."                   |
 
-## 🧑‍💻 Technical Example
 
-| Hacker Type     | Action                                                                 | Intention                                          | Example                                                                                  |
-|------------------|------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **White Hat** 🕊️ | Tests systems **with permission**, reports bugs to the owner.         | Help improve security.                             | Hired by a company to perform penetration testing and report vulnerabilities.             |
-| **Gray Hat** ⚪   | Finds flaws **without permission**, may or may not report them.       | Depends on personal interest or recognition.       | Finds a flaw on a public website and reports it or posts it online to pressure action.   |
-| **Black Hat** 🕶️ | Exploits flaws **illegally** for theft, fraud, or sabotage.           | Personal gain or harm.                             | Hacks into systems to steal data or plant malware.                                        |
 
----
-
-## 🏠 Daily Life Example
-
-| Hacker Type     | Real-World Behavior (e.g., Wi-Fi Scenario)                             | Intention                                          |
-|------------------|------------------------------------------------------------------------|----------------------------------------------------|
-| **White Hat** 🕊️ | Tells neighbor their Wi-Fi is open and helps them secure it.           | Helpful and ethical.                               |
-| **Gray Hat** ⚪   | Connects to neighbor’s open Wi-Fi, then informs them later.            | Unauthorized but not harmful.                      |
-| **Black Hat** 🕶️ | Uses neighbor’s Wi-Fi to hack or access personal devices.              | Harmful and illegal.                               |
-
----
 
 ## 📌 Summary
 
