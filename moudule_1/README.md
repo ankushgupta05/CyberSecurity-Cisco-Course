@@ -22,6 +22,54 @@
 
 
 
+
+# Hacker Types: White Hat, Gray Hat, and Black Hat
+
+## 🔍 Overview
+
+Hackers can be categorized based on their intent and methods. The three main types are:
+
+- **White Hat Hackers** – Ethical hackers who work with permission to secure systems.
+- **Gray Hat Hackers** – Work without permission but usually without malicious intent.
+- **Black Hat Hackers** – Malicious hackers who exploit systems for personal gain.
+
+---
+
+## 🧑‍💻 Technical Example
+
+| Hacker Type     | Action                                                                 | Intention                                          | Example                                                                                  |
+|------------------|------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **White Hat** 🕊️ | Tests systems **with permission**, reports bugs to the owner.         | Help improve security.                             | Hired by a company to perform penetration testing and report vulnerabilities.             |
+| **Gray Hat** ⚪   | Finds flaws **without permission**, may or may not report them.       | Depends on personal interest or recognition.       | Finds a flaw on a public website and reports it or posts it online to pressure action.   |
+| **Black Hat** 🕶️ | Exploits flaws **illegally** for theft, fraud, or sabotage.           | Personal gain or harm.                             | Hacks into systems to steal data or plant malware.                                        |
+
+---
+
+## 🏠 Daily Life Example
+
+| Hacker Type     | Real-World Behavior (e.g., Wi-Fi Scenario)                             | Intention                                          |
+|------------------|------------------------------------------------------------------------|----------------------------------------------------|
+| **White Hat** 🕊️ | Tells neighbor their Wi-Fi is open and helps them secure it.           | Helpful and ethical.                               |
+| **Gray Hat** ⚪   | Connects to neighbor’s open Wi-Fi, then informs them later.            | Unauthorized but not harmful.                      |
+| **Black Hat** 🕶️ | Uses neighbor’s Wi-Fi to hack or access personal devices.              | Harmful and illegal.                               |
+
+---
+
+## 📌 Summary
+
+- **White Hats** = Ethical + Legal  
+- **Gray Hats** = Ethical-ish + Illegal  
+- **Black Hats** = Unethical + Illegal
+
+Understanding these types helps us appreciate the importance of cybersecurity and responsible hacking.
+
+
+
+
+
+
+
+
 ## 🔐 Internal vs External Cyber Threats
 
 | Type of Threat        | Description                                                             | Example                                                               |
